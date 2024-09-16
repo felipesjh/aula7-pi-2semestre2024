@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    border: solid 1px brown;
+    width: 960px;
+}
+
+span{
+    display: block;
+    width: 200px;
+    height: auto;
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color:  rgb(244, 222, 177);
+    padding: 20px 10px;
+    margin: 10px 0;
+}
+
+span h1{
+    font-weight: bold;
+    color: orangered;
+}
+
+span p{
+    color: orangered;
+}
+
